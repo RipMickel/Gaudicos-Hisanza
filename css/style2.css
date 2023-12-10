@@ -1,0 +1,73 @@
+.app-nav-btn-active {
+    background-color: black;
+    color: #ffffff;
+    height: 5%;
+}
+
+.nvn {
+    background: rgb(89, 20, 20);
+background: linear-gradient(90deg, #000000d5 100%, #000000d5 100%, #000000d5 100%);
+    padding: 20px; /* Increased padding for a larger navigation bar */
+    text-align: left; /* Align the content to the left */
+    height: 55px;
+    
+}
+
+.navigation {
+    display: flex;
+}
+
+/* Add a black line in the middle of the navbar */
+nav::after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    bottom: 10  px;
+    left: 50%;
+    border-left: 3px solid rgb(0, 0, 0);
+}
+
+.nav-button-margin {
+    margin-top: -35px;
+}
+.navb{
+    margin-top: 3%;
+}
+
+.navbutton {
+    font-weight: bold;
+    text-decoration: none;
+    color: #00308F;
+    padding: 15px 30px;
+    margin: 0 10px 0 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    margin-top: 24%;
+}
+
+.navbutton:hover {
+    background-color: #e6e2e2;
+}
+
+.navbutton {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.364);
+}
+
+.nvnname {
+    background-image: url(https://i.gifer.com/J59.gif);
+    font-weight: bolder;
+    margin-left: 50px;
+    margin-top: 45%;
+    color: #e7e5e8;
+    font-size: x-large;
+    transition: transform 0.5s;
+}
+.nvnname:hover{
+    font-size: xx-large;
+    color: #008B8B;
+}
+
+.nav_iconsize {
+    margin-right: 2.5%;
+    width: 10%;
+}
