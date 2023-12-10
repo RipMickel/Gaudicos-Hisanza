@@ -16,6 +16,9 @@ background: linear-gradient(90deg, #000000d5 100%, #000000d5 100%, #000000d5 100
 .navigation {
     display: flex;
 }
+.demo{
+    text-align: center;
+}
 
 /* Add a black line in the middle of the navbar */
 nav::after {

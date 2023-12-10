@@ -6,7 +6,7 @@ body {
     
     background-repeat: no-repeat; 
     background-position: top;
-    color: #ffffff; /* Light text color */
+    color: #000000; /* Light text color */
 }
 
 .Aud{
@@ -66,6 +66,7 @@ body {
     margin-right: 5%; 
     margin-top: 12%;
     margin-left: 24%;
+    
 
   }
   .hello{
