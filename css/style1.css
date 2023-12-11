@@ -1,9 +1,8 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-image: url();
+    background-image: url(https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.15752-9/398407527_890809575590097_6228935140617205907_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGHsXSaU8BFDpxNeNz8TWLACNw-AxJO9GEI3D4DEk70YYqzIhR__WTuvX0_jn6XRqMZ-_i3KB2RTLsAdogrjd0p&_nc_ohc=wP1YiMAvjqIAX8xwpeG&_nc_ht=scontent.fdvo2-1.fna&oh=03_AdSZcxUBVxAedJcbPITD0J5eWojy_PElBzeHbfbwCGrkyA&oe=659EAC6E);
     background-size: cover;
-    
     background-repeat: no-repeat; 
     background-position: top;
     color: #000000; /* Light text color */
@@ -14,12 +13,22 @@ body {
     margin-top: auto;
     margin-left: auto;
 
-
 }
 
 
+
+
+.resumeM{
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+ 
+}
+
 .abt{
-    color: #72A0C1;
+    color: #f1f1f1;
     transition: transform 0.5s;
     text-align: center;
 }
@@ -40,32 +49,11 @@ body {
     margin-left: 10%;
 }
 
-.custom-button {
-    background-color: #000000; 
-    border: none;
-    color: rgb(0, 0, 0);
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 8px; 
-    background-size: fill;
-  }
-
-  .animation{
-    transition: transform 0.5s;
-  }
-
-  .animation :hover{
-    font-size: larger;
-  }
   .exp{
     margin-right: 5%; 
     margin-top: 12%;
     margin-left: 24%;
+    background-image: url(https://media0.giphy.com/media/ggK4TpfK2cfuZcokhj/giphy_s.gif?cid=ecf05e47uyez5mhelg7yqic2y6719qhn5z8qhxt4lbgx6dse&ep=v1_stickers_search&rid=giphy_s.gif&ct=s);
     
 
   }
