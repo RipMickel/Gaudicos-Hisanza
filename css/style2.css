@@ -40,16 +40,24 @@ nav::after {
 .navbutton {
     font-weight: bold;
     text-decoration: none;
-    color: #00308F;
-    padding: 15px 30px;
+    color: #e8eaed;
+    padding: 11px 30px;
     margin: 0 10px 0 20px;
-    border-radius: 5px;
+    border-radius: 13px;
     transition: background-color 0.3s;
-    margin-top: 24%;
+    margin-top: 2%;
 }
-
+#demo {
+   
+    color: white;
+  
+}
+#mp{
+   
+    color: #CBC3E3;
+}
 .navbutton:hover {
-    background-color: #e6e2e2;
+    background-color: #CBC3E3;
 }
 
 .navbutton {
@@ -72,5 +80,43 @@ nav::after {
 
 .nav_iconsize {
     margin-right: 2.5%;
-    width: 10%;
+    width: 7%;
 }
+
+
+  
+
+
+  
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .button:hover {
+    background-color: #555;
+  }
+
+
+  
+
+  .h2d{
+    color: #CBC3E3;
+    text-align: center;
+    background-color: #000;
+  }
+
+  .hello{
+    color: aqua;
+    margin-left: auto;
+    margin-top: 40px;
+  }
+
+ 
