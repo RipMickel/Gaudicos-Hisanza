@@ -3,9 +3,10 @@ body {
     font-family: 'Arial', sans-serif;
     background-image: url(https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.15752-9/398407527_890809575590097_6228935140617205907_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeGHsXSaU8BFDpxNeNz8TWLACNw-AxJO9GEI3D4DEk70YYqzIhR__WTuvX0_jn6XRqMZ-_i3KB2RTLsAdogrjd0p&_nc_ohc=wP1YiMAvjqIAX8xwpeG&_nc_ht=scontent.fdvo2-1.fna&oh=03_AdSZcxUBVxAedJcbPITD0J5eWojy_PElBzeHbfbwCGrkyA&oe=659EAC6E);
     background-size: cover;
-    background-repeat: no-repeat; 
+    background-repeat: repeat; 
     background-position: top;
     color: #000000; /* Light text color */
+   
 }
 
 .Aud{
@@ -64,3 +65,16 @@ body {
   .apa{
     color: #7CFC00;
   }
+
+  .abtpic{
+margin-right: 100%;
+ }
+ .abttpic{
+    margin-top: 30px;
+    margin-right: -490%;
+    margin-left: 220%;
+ }
+ .title{
+    color:#CBC3E3;
+    
+ }
