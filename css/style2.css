@@ -37,6 +37,12 @@ nav::after {
     margin-top: 3%;
 }
 
+.abtA {
+    margin-left: -3px;
+    text-align: left;
+    
+}
+
 .navbutton {
     font-weight: bold;
     text-decoration: none;
