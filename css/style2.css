@@ -110,7 +110,7 @@ nav::after {
   .h2d{
     color: #CBC3E3;
     text-align: center;
-    background-color: #000;
+    background-color: #00000038;
   }
 
   .hello{
@@ -119,4 +119,8 @@ nav::after {
     margin-top: 40px;
   }
 
- 
+ .footer{
+    margin-top: 60%;
+    text-align: center;
+    color: #CBC3E3;
+ }
