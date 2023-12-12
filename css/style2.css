@@ -57,7 +57,8 @@ nav::after {
     color: #CBC3E3;
 }
 .navbutton:hover {
-    background-color: #CBC3E3;
+    background-color:#CBC3E3;
+
 }
 
 .navbutton {
